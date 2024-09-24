@@ -1,4 +1,4 @@
-/* Miwa Yoshida 1002235703 */
+
 #include <stdio.h>
 #include <stdlib.h>
 
